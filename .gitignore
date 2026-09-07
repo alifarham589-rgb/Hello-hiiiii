@@ -1,0 +1,12 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Node dependencies (if used)
+node_modules/
+npm-debug.log
+
+# Build outputs
+.vercel
+dist/
+build/
